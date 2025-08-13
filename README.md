@@ -1,4 +1,4 @@
-## Old Version
+i## Old Version
 - https://github.com/Sakshi/E-commerce-project-springBoot/tree/main
 - issue: everytime connection open close for access database 
 
@@ -56,8 +56,7 @@ The views are located in `src/main/webapp/views`, but for some reason, Spring Bo
 When you run the project, the views should be found by Spring Boot and you should see a login page in http://localhost:8080/ (if not logged in previously)!
 ![configurations](image.png)
 
-# Workflow
-- ![image](https://github.com/Sakshi/E-commerce-project-springBoot/assets/81226571/69951cb7-65e2-4225-8681-2542859aaec6)
+
 ### Controller
 - control the endpoint and also send data to view( we use ModelAndView method)
 - ``` @GetMapping("login")
@@ -100,10 +99,6 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
-## Preview
 
-![image](https://github.com/Sakshi/E-commerce-project-springBoot/assets/81226571/02a04d3c-1fc9-418c-b231-639f6525d07e)
-![image](https://github.com/Sakshi/E-commerce-project-springBoot/assets/81226571/24c4451b-43a6-4c23-a78a-786eab4303b0)
-![image](https://github.com/Sakshi/E-commerce-project-springBoot/assets/81226571/93c1baeb-326c-450f-867e-a883900a6644)
 
 
